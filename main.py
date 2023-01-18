@@ -5,6 +5,7 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:@localhost/usersinformatio
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
 
+
 class User(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     login = db.Column(db.String(28), nullable=False, unique=True)
