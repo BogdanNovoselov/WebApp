@@ -1,9 +1,13 @@
-from flask import Flask, render_template, url_for
+# -*- coding: utf8 -*-
+from flask import Flask, render_template, url_for, request, redirect
 from flask_sqlalchemy import SQLAlchemy
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:@localhost/usersinformation'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
+
+
+hasentered = False
 
 
 class User(db.Model):
@@ -12,13 +16,53 @@ class User(db.Model):
     password = db.Column(db.String(28), nullable=False)
 
 
-@app.route('/')
+@app.route('/', methods=['POST', 'GET'])
 def registration():
-    return render_template("registration.html")
+    global hasentered
+    hasentered = False
+    if request.method == "POST":
+        login = request.form['login']
+        password = request.form['password']
+        for curUser in User.query.all():
+            if curUser.login == login and curUser.password == password:
+
+                hasentered = True
+                return redirect("/home")
+        return "Неверное имя пользователя или пароль!"
+    else:
+        return render_template("registration.html")
+
 
 @app.route('/home')
 def home():
-    return render_template("index.html")
+    if hasentered:
+        return render_template("index.html")
+    else:
+        return redirect('/')
+
+
+@app.route('/signup', methods=['POST', 'GET'])
+def signup():
+    if request.method == "POST":
+        login = request.form['login']
+        password = request.form['password']
+        password2 = request.form['password2']
+        for curUser in User.query.all():
+            if curUser.login == login:
+                return "Такой пользователь уже существует!"
+        if(password == password2):
+            newUser = User(login=login, password=password)
+        else:
+            return "Пароли не совпадают!"
+        try:
+            db.session.add(newUser)
+            db.session.commit()
+            return redirect('/')
+        except:
+            return "ERROR 404"
+
+    else:
+        return render_template("SignUp.html")
 
 
 if __name__ == "__main__":
