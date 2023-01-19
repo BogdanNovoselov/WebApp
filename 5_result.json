@@ -576,97 +576,6 @@
         "item_link": "https://www.mvideo.ru/products/planshet-huawei-matepad-se-ags5-w09-4-64gb-wifi-black-30065627"
     },
     {
-        "productId": "30065629",
-        "name": "Планшет HUAWEI MatePad SE (AGS5-W09) 4/128Gb WiFi Black",
-        "nameTranslit": "planshet-huawei-matepad-se-ags5-w09-4-128gb-wifi-black",
-        "productType": "DIG",
-        "usedProductType": null,
-        "materialCisNumber": "30065629",
-        "materialSource": "ERP",
-        "modelName": "MatePad SE (AGS5-W09) 4/128Gb WiFi Black",
-        "rating": {
-            "star": 5,
-            "count": 1,
-            "percent": 101
-        },
-        "supplier": null,
-        "vendorCatalog": null,
-        "sublicense": false,
-        "partnerType": null,
-        "preorder": null,
-        "isMprimeSubscription": false,
-        "image": "Pdb/small_pic/480/30065629b.jpg",
-        "brandId": "1801",
-        "brandName": "HUAWEI",
-        "status": {
-            "showCase": false,
-            "availableOnlyInRetailStore": false,
-            "soldOut": false,
-            "isCannotBeExchanged": false
-        },
-        "category": {
-            "id": "930",
-            "name": "Планшеты на Android"
-        },
-        "properties": null,
-        "images": [
-            "Pdb/30065629.jpg",
-            "Pdb/30065629b.jpg",
-            "Pdb/30065629s.jpg"
-        ],
-        "propertiesPortion": [
-            {
-                "id": 617122,
-                "name": "Экран",
-                "value": "10.36\"/1200x2000 Пикс",
-                "nameDescription": null,
-                "valueDescription": null,
-                "priority": 1,
-                "measure": null
-            },
-            {
-                "id": 613463,
-                "name": "Встроенная память (ROM)",
-                "value": "128",
-                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
-                "valueDescription": null,
-                "priority": 3,
-                "measure": "ГБ"
-            },
-            {
-                "id": 30852805,
-                "name": "Оперативная память (RAM)",
-                "value": "4",
-                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
-                "valueDescription": null,
-                "priority": 4,
-                "measure": "ГБ"
-            },
-            {
-                "id": 30852972,
-                "name": "Количество ядер",
-                "value": "8",
-                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
-                "valueDescription": null,
-                "priority": 5,
-                "measure": null
-            },
-            {
-                "id": 754,
-                "name": "Частота процессора",
-                "value": "4 x 2.4ГГц + 4 x 1.9ГГц",
-                "nameDescription": "Тактовая частота процессора – количество тактов (операций), которые процессор может совершить за единицу времени. Чем больше тактовая частота, тем выше быстродействие процессора. Это один из важных параметров, влияющих на производительность.",
-                "valueDescription": null,
-                "priority": 6,
-                "measure": null
-            }
-        ],
-        "item_basePrice": 17999,
-        "item_salePrice": 16999,
-        "item_bonus": 510,
-        "item_link": "https://www.mvideo.ru/products/planshet-huawei-matepad-se-ags5-w09-4-128gb-wifi-black-30065629"
-    },
-    {
         "productId": "30065625",
         "name": "Планшет HUAWEI MatePad SE (AGS5-W09) 3/32Gb WiFi Black",
         "nameTranslit": "planshet-huawei-matepad-se-ags5-w09-3-32gb-wifi-black",
@@ -760,6 +669,194 @@
         "item_salePrice": 11999,
         "item_bonus": 360,
         "item_link": "https://www.mvideo.ru/products/planshet-huawei-matepad-se-ags5-w09-3-32gb-wifi-black-30065625"
+    },
+    {
+        "productId": "30065629",
+        "name": "Планшет HUAWEI MatePad SE (AGS5-W09) 4/128Gb WiFi Black",
+        "nameTranslit": "planshet-huawei-matepad-se-ags5-w09-4-128gb-wifi-black",
+        "productType": "DIG",
+        "usedProductType": null,
+        "materialCisNumber": "30065629",
+        "materialSource": "ERP",
+        "modelName": "MatePad SE (AGS5-W09) 4/128Gb WiFi Black",
+        "rating": {
+            "star": 5,
+            "count": 1,
+            "percent": 101
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "image": "Pdb/small_pic/480/30065629b.jpg",
+        "brandId": "1801",
+        "brandName": "HUAWEI",
+        "status": {
+            "showCase": true,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/30065629.jpg",
+            "Pdb/30065629b.jpg",
+            "Pdb/30065629s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "10.36\"/1200x2000 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "128",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 3,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "4",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": null
+            },
+            {
+                "id": 754,
+                "name": "Частота процессора",
+                "value": "4 x 2.4ГГц + 4 x 1.9ГГц",
+                "nameDescription": "Тактовая частота процессора – количество тактов (операций), которые процессор может совершить за единицу времени. Чем больше тактовая частота, тем выше быстродействие процессора. Это один из важных параметров, влияющих на производительность.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 17999,
+        "item_salePrice": 16999,
+        "item_bonus": 510,
+        "item_link": "https://www.mvideo.ru/products/planshet-huawei-matepad-se-ags5-w09-4-128gb-wifi-black-30065629"
+    },
+    {
+        "productId": "30064396",
+        "name": "Планшет HUAWEI MatePad 10.4\" 4/128Gb Wi-Fi Grey (BAH4-W09)",
+        "nameTranslit": "planshet-huawei-matepad-104-4-128gb-wi-fi-grey-bah4-w09",
+        "productType": "DIG",
+        "usedProductType": null,
+        "materialCisNumber": "30064396",
+        "materialSource": "ERP",
+        "modelName": "MatePad 10.4 4/128Gb WI-FI stylus Grey (BAH4-W09)",
+        "rating": {
+            "star": 5,
+            "count": 4,
+            "percent": 101
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "image": "Pdb/small_pic/480/30064396b.jpg",
+        "brandId": "1801",
+        "brandName": "HUAWEI",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/30064396.jpg",
+            "Pdb/30064396b.jpg",
+            "Pdb/30064396b1.jpg",
+            "Pdb/30064396b2.jpg",
+            "Pdb/30064396b3.jpg",
+            "Pdb/30064396b4.jpg",
+            "Pdb/30064396b5.jpg",
+            "Pdb/30064396b6.jpg",
+            "Pdb/30064396s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "10.4\"/1200x2000 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "128",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 3,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "4",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": null
+            },
+            {
+                "id": 754,
+                "name": "Частота процессора",
+                "value": "2.0 ГГц + 1.7 ГГц",
+                "nameDescription": "Тактовая частота процессора – количество тактов (операций), которые процессор может совершить за единицу времени. Чем больше тактовая частота, тем выше быстродействие процессора. Это один из важных параметров, влияющих на производительность.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 28999,
+        "item_salePrice": 25999,
+        "item_bonus": 780,
+        "item_link": "https://www.mvideo.ru/products/planshet-huawei-matepad-104-4-128gb-wi-fi-grey-bah4-w09-30064396"
     },
     {
         "productId": "30064398",
@@ -863,103 +960,6 @@
         "item_link": "https://www.mvideo.ru/products/planshet-huawei-matepad-11-6128gb-wi-fi-grey-dby-w09-30064398"
     },
     {
-        "productId": "30064396",
-        "name": "Планшет HUAWEI MatePad 10.4\" 4/128Gb Wi-Fi Grey (BAH4-W09)",
-        "nameTranslit": "planshet-huawei-matepad-104-4-128gb-wi-fi-grey-bah4-w09",
-        "productType": "DIG",
-        "usedProductType": null,
-        "materialCisNumber": "30064396",
-        "materialSource": "ERP",
-        "modelName": "MatePad 10.4 4/128Gb WI-FI stylus Grey (BAH4-W09)",
-        "rating": {
-            "star": 5,
-            "count": 4,
-            "percent": 101
-        },
-        "supplier": null,
-        "vendorCatalog": null,
-        "sublicense": false,
-        "partnerType": null,
-        "preorder": null,
-        "isMprimeSubscription": false,
-        "image": "Pdb/small_pic/480/30064396b.jpg",
-        "brandId": "1801",
-        "brandName": "HUAWEI",
-        "status": {
-            "showCase": false,
-            "availableOnlyInRetailStore": false,
-            "soldOut": false,
-            "isCannotBeExchanged": false
-        },
-        "category": {
-            "id": "930",
-            "name": "Планшеты на Android"
-        },
-        "properties": null,
-        "images": [
-            "Pdb/30064396.jpg",
-            "Pdb/30064396b.jpg",
-            "Pdb/30064396b1.jpg",
-            "Pdb/30064396b2.jpg",
-            "Pdb/30064396b3.jpg",
-            "Pdb/30064396b4.jpg",
-            "Pdb/30064396b5.jpg",
-            "Pdb/30064396b6.jpg",
-            "Pdb/30064396s.jpg"
-        ],
-        "propertiesPortion": [
-            {
-                "id": 617122,
-                "name": "Экран",
-                "value": "10.4\"/1200x2000 Пикс",
-                "nameDescription": null,
-                "valueDescription": null,
-                "priority": 1,
-                "measure": null
-            },
-            {
-                "id": 613463,
-                "name": "Встроенная память (ROM)",
-                "value": "128",
-                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
-                "valueDescription": null,
-                "priority": 3,
-                "measure": "ГБ"
-            },
-            {
-                "id": 30852805,
-                "name": "Оперативная память (RAM)",
-                "value": "4",
-                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
-                "valueDescription": null,
-                "priority": 4,
-                "measure": "ГБ"
-            },
-            {
-                "id": 30852972,
-                "name": "Количество ядер",
-                "value": "8",
-                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
-                "valueDescription": null,
-                "priority": 5,
-                "measure": null
-            },
-            {
-                "id": 754,
-                "name": "Частота процессора",
-                "value": "2.0 ГГц + 1.7 ГГц",
-                "nameDescription": "Тактовая частота процессора – количество тактов (операций), которые процессор может совершить за единицу времени. Чем больше тактовая частота, тем выше быстродействие процессора. Это один из важных параметров, влияющих на производительность.",
-                "valueDescription": null,
-                "priority": 6,
-                "measure": null
-            }
-        ],
-        "item_basePrice": 28999,
-        "item_salePrice": 25999,
-        "item_bonus": 780,
-        "item_link": "https://www.mvideo.ru/products/planshet-huawei-matepad-104-4-128gb-wi-fi-grey-bah4-w09-30064396"
-    },
-    {
         "productId": "30064329",
         "name": "Планшет HUAWEI MatePad Pro 11 8+256GB Wi-Fi Black (GOT-W29)",
         "nameTranslit": "planshet-huawei-matepad-pro-11-8256gb-wi-fi-black-got-w29",
@@ -1053,101 +1053,6 @@
         "item_link": "https://www.mvideo.ru/products/planshet-huawei-matepad-pro-11-8256gb-wi-fi-black-got-w29-30064329"
     },
     {
-        "productId": "30065626",
-        "name": "Планшет HUAWEI MatePad SE (AGS5-L09) 3/32Gb LTE Black",
-        "nameTranslit": "planshet-huawei-matepad-se-ags5-l09-3-32gb-lte-black",
-        "productType": "DIG",
-        "usedProductType": null,
-        "materialCisNumber": "30065626",
-        "materialSource": "ERP",
-        "modelName": "MatePad SE (AGS5-L09) 3/32Gb LTE Black",
-        "rating": {
-            "star": null,
-            "count": null,
-            "percent": null
-        },
-        "supplier": null,
-        "vendorCatalog": null,
-        "sublicense": false,
-        "partnerType": null,
-        "preorder": null,
-        "isMprimeSubscription": false,
-        "image": "Pdb/small_pic/480/30065626b.jpg",
-        "brandId": "1801",
-        "brandName": "HUAWEI",
-        "status": {
-            "showCase": false,
-            "availableOnlyInRetailStore": false,
-            "soldOut": false,
-            "isCannotBeExchanged": false
-        },
-        "category": {
-            "id": "930",
-            "name": "Планшеты на Android"
-        },
-        "properties": null,
-        "images": [
-            "Pdb/30065626.jpg",
-            "Pdb/30065626b.jpg",
-            "Pdb/30065626b1.jpg",
-            "Pdb/30065626b2.jpg",
-            "Pdb/30065626b3.jpg",
-            "Pdb/30065626b4.jpg",
-            "Pdb/30065626s.jpg"
-        ],
-        "propertiesPortion": [
-            {
-                "id": 617122,
-                "name": "Экран",
-                "value": "10.36\"/1200x2000 Пикс",
-                "nameDescription": null,
-                "valueDescription": null,
-                "priority": 1,
-                "measure": null
-            },
-            {
-                "id": 613463,
-                "name": "Встроенная память (ROM)",
-                "value": "32",
-                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
-                "valueDescription": null,
-                "priority": 3,
-                "measure": "ГБ"
-            },
-            {
-                "id": 30852805,
-                "name": "Оперативная память (RAM)",
-                "value": "3",
-                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
-                "valueDescription": null,
-                "priority": 4,
-                "measure": "ГБ"
-            },
-            {
-                "id": 30852972,
-                "name": "Количество ядер",
-                "value": "8",
-                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
-                "valueDescription": null,
-                "priority": 5,
-                "measure": null
-            },
-            {
-                "id": 754,
-                "name": "Частота процессора",
-                "value": "4 x 2.4ГГц + 4 x 1.9ГГц",
-                "nameDescription": "Тактовая частота процессора – количество тактов (операций), которые процессор может совершить за единицу времени. Чем больше тактовая частота, тем выше быстродействие процессора. Это один из важных параметров, влияющих на производительность.",
-                "valueDescription": null,
-                "priority": 6,
-                "measure": null
-            }
-        ],
-        "item_basePrice": 14999,
-        "item_salePrice": 13999,
-        "item_bonus": 420,
-        "item_link": "https://www.mvideo.ru/products/planshet-huawei-matepad-se-ags5-l09-3-32gb-lte-black-30065626"
-    },
-    {
         "productId": "30064490",
         "name": "Планшет HUAWEI MatePad Pro 11 8+256GB LTE Black (GOT-AL09)",
         "nameTranslit": "planshet-huawei-matepad-pro-11-8256gb-lte-black-got-al09",
@@ -1239,103 +1144,6 @@
         "item_salePrice": 53999,
         "item_bonus": 1620,
         "item_link": "https://www.mvideo.ru/products/planshet-huawei-matepad-pro-11-8256gb-lte-black-got-al09-30064490"
-    },
-    {
-        "productId": "30064196",
-        "name": "Планшет HUAWEI MatePad T10 2+32GB LTE Blue (AGRK-L09)",
-        "nameTranslit": "planshet-huawei-matepad-t10-232gb-lte-blue-agrk-l09",
-        "productType": "DIG",
-        "usedProductType": null,
-        "materialCisNumber": "30064196",
-        "materialSource": "ERP",
-        "modelName": "MatePad T10 2+32GB LTE Blue (AGRK-L09)",
-        "rating": {
-            "star": 5,
-            "count": 1,
-            "percent": 101
-        },
-        "supplier": null,
-        "vendorCatalog": null,
-        "sublicense": false,
-        "partnerType": null,
-        "preorder": null,
-        "isMprimeSubscription": false,
-        "image": "Pdb/small_pic/480/30064196b.jpg",
-        "brandId": "1801",
-        "brandName": "HUAWEI",
-        "status": {
-            "showCase": false,
-            "availableOnlyInRetailStore": false,
-            "soldOut": false,
-            "isCannotBeExchanged": false
-        },
-        "category": {
-            "id": "930",
-            "name": "Планшеты на Android"
-        },
-        "properties": null,
-        "images": [
-            "Pdb/30064196.jpg",
-            "Pdb/30064196b.jpg",
-            "Pdb/30064196b1.jpg",
-            "Pdb/30064196b2.jpg",
-            "Pdb/30064196b3.jpg",
-            "Pdb/30064196b4.jpg",
-            "Pdb/30064196b5.jpg",
-            "Pdb/30064196b6.jpg",
-            "Pdb/30064196s.jpg"
-        ],
-        "propertiesPortion": [
-            {
-                "id": 617122,
-                "name": "Экран",
-                "value": "9.7\"/800x1280 Пикс",
-                "nameDescription": null,
-                "valueDescription": null,
-                "priority": 1,
-                "measure": null
-            },
-            {
-                "id": 613463,
-                "name": "Встроенная память (ROM)",
-                "value": "32",
-                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
-                "valueDescription": null,
-                "priority": 3,
-                "measure": "ГБ"
-            },
-            {
-                "id": 30852805,
-                "name": "Оперативная память (RAM)",
-                "value": "2",
-                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
-                "valueDescription": null,
-                "priority": 4,
-                "measure": "ГБ"
-            },
-            {
-                "id": 30852972,
-                "name": "Количество ядер",
-                "value": "8",
-                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
-                "valueDescription": null,
-                "priority": 5,
-                "measure": null
-            },
-            {
-                "id": 754,
-                "name": "Частота процессора",
-                "value": "2 ГГц",
-                "nameDescription": "Тактовая частота процессора – количество тактов (операций), которые процессор может совершить за единицу времени. Чем больше тактовая частота, тем выше быстродействие процессора. Это один из важных параметров, влияющих на производительность.",
-                "valueDescription": null,
-                "priority": 6,
-                "measure": null
-            }
-        ],
-        "item_basePrice": 14499,
-        "item_salePrice": 12999,
-        "item_bonus": 390,
-        "item_link": "https://www.mvideo.ru/products/planshet-huawei-matepad-t10-232gb-lte-blue-agrk-l09-30064196"
     },
     {
         "productId": "30064393",
@@ -1435,17 +1243,17 @@
         "item_link": "https://www.mvideo.ru/products/planshet-huawei-matepad-104-6-64gb-wi-fi-grey-bah4-w09-30064393"
     },
     {
-        "productId": "30064399",
-        "name": "Планшет HUAWEI MatePad 11 6+256GB Wi-Fi Green (DBY-W09)",
-        "nameTranslit": "planshet-huawei-matepad-11-6256gb-wi-fi-green-dby-w09",
+        "productId": "30064196",
+        "name": "Планшет HUAWEI MatePad T10 2+32GB LTE Blue (AGRK-L09)",
+        "nameTranslit": "planshet-huawei-matepad-t10-232gb-lte-blue-agrk-l09",
         "productType": "DIG",
         "usedProductType": null,
-        "materialCisNumber": "30064399",
+        "materialCisNumber": "30064196",
         "materialSource": "ERP",
-        "modelName": "MatePad 11 6+256GB WI-FI Green (DBY-W09)",
+        "modelName": "MatePad T10 2+32GB LTE Blue (AGRK-L09)",
         "rating": {
             "star": 5,
-            "count": 19,
+            "count": 1,
             "percent": 101
         },
         "supplier": null,
@@ -1454,7 +1262,7 @@
         "partnerType": null,
         "preorder": null,
         "isMprimeSubscription": false,
-        "image": "Pdb/small_pic/480/30064399b.jpg",
+        "image": "Pdb/small_pic/480/30064196b.jpg",
         "brandId": "1801",
         "brandName": "HUAWEI",
         "status": {
@@ -1469,21 +1277,21 @@
         },
         "properties": null,
         "images": [
-            "Pdb/30064399.jpg",
-            "Pdb/30064399b.jpg",
-            "Pdb/30064399b1.jpg",
-            "Pdb/30064399b2.jpg",
-            "Pdb/30064399b3.jpg",
-            "Pdb/30064399b4.jpg",
-            "Pdb/30064399b5.jpg",
-            "Pdb/30064399b6.jpg",
-            "Pdb/30064399s.jpg"
+            "Pdb/30064196.jpg",
+            "Pdb/30064196b.jpg",
+            "Pdb/30064196b1.jpg",
+            "Pdb/30064196b2.jpg",
+            "Pdb/30064196b3.jpg",
+            "Pdb/30064196b4.jpg",
+            "Pdb/30064196b5.jpg",
+            "Pdb/30064196b6.jpg",
+            "Pdb/30064196s.jpg"
         ],
         "propertiesPortion": [
             {
                 "id": 617122,
                 "name": "Экран",
-                "value": "10.95\"/1600x2560 Пикс",
+                "value": "9.7\"/800x1280 Пикс",
                 "nameDescription": null,
                 "valueDescription": null,
                 "priority": 1,
@@ -1492,7 +1300,7 @@
             {
                 "id": 613463,
                 "name": "Встроенная память (ROM)",
-                "value": "256",
+                "value": "32",
                 "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
                 "valueDescription": null,
                 "priority": 3,
@@ -1501,7 +1309,7 @@
             {
                 "id": 30852805,
                 "name": "Оперативная память (RAM)",
-                "value": "6",
+                "value": "2",
                 "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
                 "valueDescription": null,
                 "priority": 4,
@@ -1519,17 +1327,17 @@
             {
                 "id": 754,
                 "name": "Частота процессора",
-                "value": "2.8 ГГц",
+                "value": "2 ГГц",
                 "nameDescription": "Тактовая частота процессора – количество тактов (операций), которые процессор может совершить за единицу времени. Чем больше тактовая частота, тем выше быстродействие процессора. Это один из важных параметров, влияющих на производительность.",
                 "valueDescription": null,
                 "priority": 6,
                 "measure": null
             }
         ],
-        "item_basePrice": 44999,
-        "item_salePrice": 39999,
-        "item_bonus": 1200,
-        "item_link": "https://www.mvideo.ru/products/planshet-huawei-matepad-11-6256gb-wi-fi-green-dby-w09-30064399"
+        "item_basePrice": 14499,
+        "item_salePrice": 12999,
+        "item_bonus": 390,
+        "item_link": "https://www.mvideo.ru/products/planshet-huawei-matepad-t10-232gb-lte-blue-agrk-l09-30064196"
     },
     {
         "productId": "30060538",
@@ -1636,6 +1444,103 @@
         "item_link": "https://www.mvideo.ru/products/planshet-prestigio-smartkids-up-101-pmt3104widruorc-30060538"
     },
     {
+        "productId": "30064399",
+        "name": "Планшет HUAWEI MatePad 11 6+256GB Wi-Fi Green (DBY-W09)",
+        "nameTranslit": "planshet-huawei-matepad-11-6256gb-wi-fi-green-dby-w09",
+        "productType": "DIG",
+        "usedProductType": null,
+        "materialCisNumber": "30064399",
+        "materialSource": "ERP",
+        "modelName": "MatePad 11 6+256GB WI-FI Green (DBY-W09)",
+        "rating": {
+            "star": 5,
+            "count": 19,
+            "percent": 101
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "image": "Pdb/small_pic/480/30064399b.jpg",
+        "brandId": "1801",
+        "brandName": "HUAWEI",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/30064399.jpg",
+            "Pdb/30064399b.jpg",
+            "Pdb/30064399b1.jpg",
+            "Pdb/30064399b2.jpg",
+            "Pdb/30064399b3.jpg",
+            "Pdb/30064399b4.jpg",
+            "Pdb/30064399b5.jpg",
+            "Pdb/30064399b6.jpg",
+            "Pdb/30064399s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "10.95\"/1600x2560 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "256",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 3,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "6",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "8",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": null
+            },
+            {
+                "id": 754,
+                "name": "Частота процессора",
+                "value": "2.8 ГГц",
+                "nameDescription": "Тактовая частота процессора – количество тактов (операций), которые процессор может совершить за единицу времени. Чем больше тактовая частота, тем выше быстродействие процессора. Это один из важных параметров, влияющих на производительность.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 44999,
+        "item_salePrice": 39999,
+        "item_bonus": 1200,
+        "item_link": "https://www.mvideo.ru/products/planshet-huawei-matepad-11-6256gb-wi-fi-green-dby-w09-30064399"
+    },
+    {
         "productId": "30060536",
         "name": "Планшет Prestigio SmartKids Blue 7'' (PMT3997_WI_D_BEC)",
         "nameTranslit": "planshet-prestigio-smartkids-blue-7-pmt3997widbec",
@@ -1737,109 +1642,6 @@
         "item_salePrice": 4949,
         "item_bonus": 148,
         "item_link": "https://www.mvideo.ru/products/planshet-prestigio-smartkids-blue-7-pmt3997widbec-30060536"
-    },
-    {
-        "productId": "30060537",
-        "name": "Планшет Prestigio SmartKids Pink 7'' (PMT3997_WI_D_PKC)",
-        "nameTranslit": "planshet-prestigio-smartkids-pink-7-pmt3997widpkc",
-        "productType": "DIG",
-        "usedProductType": null,
-        "materialCisNumber": "30060537",
-        "materialSource": "ERP",
-        "modelName": "SmartKids Pink 7'' (PMT3997_WI_D_PKC)",
-        "rating": {
-            "star": 3.875,
-            "count": 32,
-            "percent": 71
-        },
-        "supplier": null,
-        "vendorCatalog": null,
-        "sublicense": false,
-        "partnerType": null,
-        "preorder": null,
-        "isMprimeSubscription": false,
-        "image": "Pdb/small_pic/480/30060537b.jpg",
-        "brandId": "977",
-        "brandName": "Prestigio",
-        "status": {
-            "showCase": true,
-            "availableOnlyInRetailStore": false,
-            "soldOut": false,
-            "isCannotBeExchanged": false
-        },
-        "category": {
-            "id": "930",
-            "name": "Планшеты на Android"
-        },
-        "properties": null,
-        "images": [
-            "Pdb/30060537.jpg",
-            "Pdb/30060537b.jpg",
-            "Pdb/30060537b1.jpg",
-            "Pdb/30060537b2.jpg",
-            "Pdb/30060537b20.jpg",
-            "Pdb/30060537b21.jpg",
-            "Pdb/30060537b22.jpg",
-            "Pdb/30060537b23.jpg",
-            "Pdb/30060537b24.jpg",
-            "Pdb/30060537b26.jpg",
-            "Pdb/30060537b3.jpg",
-            "Pdb/30060537b4.jpg",
-            "Pdb/30060537b5.jpg",
-            "Pdb/30060537b6.jpg",
-            "Pdb/30060537s.jpg"
-        ],
-        "propertiesPortion": [
-            {
-                "id": 617122,
-                "name": "Экран",
-                "value": "7\"/600x1024 Пикс",
-                "nameDescription": null,
-                "valueDescription": null,
-                "priority": 1,
-                "measure": null
-            },
-            {
-                "id": 613463,
-                "name": "Встроенная память (ROM)",
-                "value": "16",
-                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
-                "valueDescription": null,
-                "priority": 3,
-                "measure": "ГБ"
-            },
-            {
-                "id": 30852805,
-                "name": "Оперативная память (RAM)",
-                "value": "1",
-                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
-                "valueDescription": null,
-                "priority": 4,
-                "measure": "ГБ"
-            },
-            {
-                "id": 30852972,
-                "name": "Количество ядер",
-                "value": "4",
-                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
-                "valueDescription": null,
-                "priority": 5,
-                "measure": null
-            },
-            {
-                "id": 754,
-                "name": "Частота процессора",
-                "value": "1.3 ГГц",
-                "nameDescription": "Тактовая частота процессора – количество тактов (операций), которые процессор может совершить за единицу времени. Чем больше тактовая частота, тем выше быстродействие процессора. Это один из важных параметров, влияющих на производительность.",
-                "valueDescription": null,
-                "priority": 6,
-                "measure": null
-            }
-        ],
-        "item_basePrice": 5499,
-        "item_salePrice": 4949,
-        "item_bonus": 148,
-        "item_link": "https://www.mvideo.ru/products/planshet-prestigio-smartkids-pink-7-pmt3997widpkc-30060537"
     },
     {
         "productId": "30045769",
@@ -2039,6 +1841,109 @@
         "item_salePrice": 18999,
         "item_bonus": 570,
         "item_link": "https://www.mvideo.ru/products/planshet-nokia-t20-ss-464gb-blue-ta-1397-30059475"
+    },
+    {
+        "productId": "30060537",
+        "name": "Планшет Prestigio SmartKids Pink 7'' (PMT3997_WI_D_PKC)",
+        "nameTranslit": "planshet-prestigio-smartkids-pink-7-pmt3997widpkc",
+        "productType": "DIG",
+        "usedProductType": null,
+        "materialCisNumber": "30060537",
+        "materialSource": "ERP",
+        "modelName": "SmartKids Pink 7'' (PMT3997_WI_D_PKC)",
+        "rating": {
+            "star": 3.875,
+            "count": 32,
+            "percent": 71
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "image": "Pdb/small_pic/480/30060537b.jpg",
+        "brandId": "977",
+        "brandName": "Prestigio",
+        "status": {
+            "showCase": true,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/30060537.jpg",
+            "Pdb/30060537b.jpg",
+            "Pdb/30060537b1.jpg",
+            "Pdb/30060537b2.jpg",
+            "Pdb/30060537b20.jpg",
+            "Pdb/30060537b21.jpg",
+            "Pdb/30060537b22.jpg",
+            "Pdb/30060537b23.jpg",
+            "Pdb/30060537b24.jpg",
+            "Pdb/30060537b26.jpg",
+            "Pdb/30060537b3.jpg",
+            "Pdb/30060537b4.jpg",
+            "Pdb/30060537b5.jpg",
+            "Pdb/30060537b6.jpg",
+            "Pdb/30060537s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "7\"/600x1024 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
+            },
+            {
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "16",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
+                "valueDescription": null,
+                "priority": 3,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "1",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "4",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": null
+            },
+            {
+                "id": 754,
+                "name": "Частота процессора",
+                "value": "1.3 ГГц",
+                "nameDescription": "Тактовая частота процессора – количество тактов (операций), которые процессор может совершить за единицу времени. Чем больше тактовая частота, тем выше быстродействие процессора. Это один из важных параметров, влияющих на производительность.",
+                "valueDescription": null,
+                "priority": 6,
+                "measure": null
+            }
+        ],
+        "item_basePrice": 5499,
+        "item_salePrice": 4949,
+        "item_bonus": 148,
+        "item_link": "https://www.mvideo.ru/products/planshet-prestigio-smartkids-pink-7-pmt3997widpkc-30060537"
     },
     {
         "productId": "30061566",
@@ -2241,18 +2146,18 @@
         "item_link": "https://www.mvideo.ru/products/planshet-huawei-matepad-1042022-464gb-lte-matte-grey-bah4-l09-30061567"
     },
     {
-        "productId": "30065624",
-        "name": "Планшет HUAWEI MatePad Pro 12.6 2022 (WGRR-W09) 8/256Gb WiFi Grey",
-        "nameTranslit": "planshet-huawei-matepad-pro-126-2022-wgrr-w09-8-256gb-wifi-grey",
+        "productId": "30051509",
+        "name": "Планшет Lenovo M10 FHD Plus TB-X606X (ZA5V0261RU)",
+        "nameTranslit": "planshet-lenovo-m10-fhd-plus-tb-x606x-za5v0261ru",
         "productType": "DIG",
         "usedProductType": null,
-        "materialCisNumber": "30065624",
+        "materialCisNumber": "30051509",
         "materialSource": "ERP",
-        "modelName": "MatePad Pro 2022 (WGRR-W09) 8/256Gb WiFi Black",
+        "modelName": "M10 FHD Plus TB-X606X (ZA5V0261RU)",
         "rating": {
-            "star": 5,
-            "count": 2,
-            "percent": 101
+            "star": 4.705882352941177,
+            "count": 17,
+            "percent": 91
         },
         "supplier": null,
         "vendorCatalog": null,
@@ -2260,9 +2165,9 @@
         "partnerType": null,
         "preorder": null,
         "isMprimeSubscription": false,
-        "image": "Pdb/small_pic/480/30065624b.jpg",
-        "brandId": "1801",
-        "brandName": "HUAWEI",
+        "image": "Pdb/small_pic/480/30051509b.jpg",
+        "brandId": "1006",
+        "brandName": "Lenovo",
         "status": {
             "showCase": false,
             "availableOnlyInRetailStore": false,
@@ -2275,22 +2180,16 @@
         },
         "properties": null,
         "images": [
-            "Pdb/30065624.jpg",
-            "Pdb/30065624b.jpg",
-            "Pdb/30065624b1.jpg",
-            "Pdb/30065624b2.jpg",
-            "Pdb/30065624b3.jpg",
-            "Pdb/30065624b4.jpg",
-            "Pdb/30065624b5.jpg",
-            "Pdb/30065624b6.jpg",
-            "Pdb/30065624b7.jpg",
-            "Pdb/30065624s.jpg"
+            "Pdb/30051509.jpg",
+            "Pdb/30051509b.jpg",
+            "Pdb/30051509b1.jpg",
+            "Pdb/30051509s.jpg"
         ],
         "propertiesPortion": [
             {
                 "id": 617122,
                 "name": "Экран",
-                "value": "12.6\"/1600x2560 Пикс",
+                "value": "10.3\"/1920x1200 Пикс",
                 "nameDescription": null,
                 "valueDescription": null,
                 "priority": 1,
@@ -2299,10 +2198,19 @@
             {
                 "id": 613463,
                 "name": "Встроенная память (ROM)",
-                "value": "256",
+                "value": "128",
                 "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
                 "valueDescription": null,
                 "priority": 3,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "4",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 4,
                 "measure": "ГБ"
             },
             {
@@ -2317,25 +2225,113 @@
             {
                 "id": 754,
                 "name": "Частота процессора",
-                "value": "1 x 3.13 + 3 x 2.54 + 4 x 2.05 ГГц",
+                "value": "2.3 ГГц",
                 "nameDescription": "Тактовая частота процессора – количество тактов (операций), которые процессор может совершить за единицу времени. Чем больше тактовая частота, тем выше быстродействие процессора. Это один из важных параметров, влияющих на производительность.",
                 "valueDescription": null,
                 "priority": 6,
                 "measure": null
+            }
+        ],
+        "item_basePrice": 21999,
+        "item_salePrice": 20999,
+        "item_bonus": 630,
+        "item_link": "https://www.mvideo.ru/products/planshet-lenovo-m10-fhd-plus-tb-x606x-za5v0261ru-30051509"
+    },
+    {
+        "productId": "30059566",
+        "name": "Планшет Prestigio Seed 3G (PMT4337)",
+        "nameTranslit": "planshet-prestigio-seed-3g-pmt4337",
+        "productType": "DIG",
+        "usedProductType": null,
+        "materialCisNumber": "30059566",
+        "materialSource": "ERP",
+        "modelName": "Seed 3G (PMT4337)",
+        "rating": {
+            "star": 4.545454545454546,
+            "count": 22,
+            "percent": 91
+        },
+        "supplier": null,
+        "vendorCatalog": null,
+        "sublicense": false,
+        "partnerType": null,
+        "preorder": null,
+        "isMprimeSubscription": false,
+        "image": "Pdb/small_pic/480/30059566b.jpg",
+        "brandId": "977",
+        "brandName": "Prestigio",
+        "status": {
+            "showCase": false,
+            "availableOnlyInRetailStore": false,
+            "soldOut": false,
+            "isCannotBeExchanged": false
+        },
+        "category": {
+            "id": "930",
+            "name": "Планшеты на Android"
+        },
+        "properties": null,
+        "images": [
+            "Pdb/30059566.jpg",
+            "Pdb/30059566b.jpg",
+            "Pdb/30059566b1.jpg",
+            "Pdb/30059566b2.jpg",
+            "Pdb/30059566b3.jpg",
+            "Pdb/30059566b4.jpg",
+            "Pdb/30059566b5.jpg",
+            "Pdb/30059566b6.jpg",
+            "Pdb/30059566s.jpg"
+        ],
+        "propertiesPortion": [
+            {
+                "id": 617122,
+                "name": "Экран",
+                "value": "7\"/600x1024 Пикс",
+                "nameDescription": null,
+                "valueDescription": null,
+                "priority": 1,
+                "measure": null
             },
             {
-                "id": 210,
-                "name": "Поддержка Wi-Fi",
-                "value": "802.11 a/b/g/n/ac/ax",
-                "nameDescription": "Технология беспроводной локальной сети. Используется для выхода в интернет.\nВ настоящее время развивается целое семейство стандартов передачи цифровых потоков данных по радиоканалам.",
+                "id": 613463,
+                "name": "Встроенная память (ROM)",
+                "value": "16",
+                "nameDescription": "Встроенная память используется для хранения приложений (программ) и информации.",
                 "valueDescription": null,
-                "priority": 8,
+                "priority": 3,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852805,
+                "name": "Оперативная память (RAM)",
+                "value": "1",
+                "nameDescription": "Часть системной памяти, от которой зависят скорость выполнения всех операций и быстродействие девайса в целом.",
+                "valueDescription": null,
+                "priority": 4,
+                "measure": "ГБ"
+            },
+            {
+                "id": 30852972,
+                "name": "Количество ядер",
+                "value": "4",
+                "nameDescription": "Влияет на производительность процессора и возможность одновременной обработки нескольких потоков данных.",
+                "valueDescription": null,
+                "priority": 5,
+                "measure": null
+            },
+            {
+                "id": 754,
+                "name": "Частота процессора",
+                "value": "1.3 ГГц",
+                "nameDescription": "Тактовая частота процессора – количество тактов (операций), которые процессор может совершить за единицу времени. Чем больше тактовая частота, тем выше быстродействие процессора. Это один из важных параметров, влияющих на производительность.",
+                "valueDescription": null,
+                "priority": 6,
                 "measure": null
             }
         ],
-        "item_basePrice": 69999,
-        "item_salePrice": 62999,
-        "item_bonus": 1890,
-        "item_link": "https://www.mvideo.ru/products/planshet-huawei-matepad-pro-126-2022-wgrr-w09-8-256gb-wifi-grey-30065624"
+        "item_basePrice": 6999,
+        "item_salePrice": 6299,
+        "item_bonus": 189,
+        "item_link": "https://www.mvideo.ru/products/planshet-prestigio-seed-3g-pmt4337-30059566"
     }
 ]

@@ -1,5 +1,16 @@
 {% extends 'template.html' %}
 {% block title %} ZhOpa {% endblock title%}
 {% block body %}
-    <div> </div>
+    <div style="padding-left:300px">
+        {% for el in text %}
+        <div>
+            <a href={{el.item_link}}><h2>{{el.name}}</h2></a>
+            <img src="https://img.mvideo.ru/{{el.image}}">
+            <h3>Price: {{el.item_basePrice}}</h3>
+            <h3>Sale Price: {{el.item_salePrice}}</h3>
+            <h3>Bonuses: {{el.item_bonus}}</h3>
+
+        </div>
+        {% endfor %}
+    </div>
 {% endblock %}

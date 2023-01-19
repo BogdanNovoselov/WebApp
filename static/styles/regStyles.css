@@ -1,0 +1,22 @@
+.btn
+{
+    width: 230px;
+    height: 40px;
+}
+ body
+ {
+
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: 100% 100%;
+ }
+input
+{
+    border: 5px solid #cccccc;
+    border-radius: 3px;
+    outline: none;
+    height: 35px;
+    width: 240px;
+    font-size: 20px;
+    font-family: Tahoma;
+}

@@ -10,14 +10,15 @@
 </head>
 <body>
 <link rel="stylesheet" href="{{url_for('static', filename='styles/base.css')}}">
+
 <header class="p-3 text-bg-dark">
     <div class="container">
         <div id="headerWrapper">
         <div id="headerContainer">
-            <div class="logo pornhub_logo ">
+            <div>
                 <div itemscope="" itemtype="http://schema.org/Organization" class="logoWrapper">
                     <a itemprop="url" href="/" onclick="ga('send', 'event', 'Header', 'click', 'Logo');">
-                        <img itemprop="logo" title="Pornhub" alt="Pornhub Porn Videos" width="150" height="80" src="/static/logo.png">
+                        <img itemprop="logo" width="150" height="80" src="/static/logo.png">
                     </a>
                 </div>
             </div>
@@ -30,13 +31,12 @@
 
                 <div class="text-end">
                     <button type="button" class="btn btn-outline-light me-2" ><a href="/about" class="nav-link px-2 text-secondary">Home</a></button>
-                    <button type="button" class="btn btn-outline-light"><a href="/" class="nav-link px-2 text-secondary">Exit</a></button>
+                    <button type="button" class="btn btn-outline-light"><a href="/" class="nav-link px-2 text-secondary">Sign Out</a></button>
                 </div>
         </div>
     </div>
 </header>
 {% block body %}
 {% endblock %}
-
 </body>
 </html>
