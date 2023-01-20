@@ -1,14 +1,27 @@
 {% extends 'template.html' %}
-{% block title %} ZhOpa {% endblock title%}
+{% block title %} Home {% endblock title%}
 {% block body %}
-    <div style="padding-left:300px">
+<style>
+
+    .params{
+        padding-top: 10%;
+        padding-left: 35%;
+    }
+    .good{
+        padding-left:20%;
+        padding-top: 5%;
+    }
+</style>
+    <div class="good">
         {% for el in text %}
-        <div>
+        <div style="clear:left">
             <a href={{el.item_link}}><h2>{{el.name}}</h2></a>
-            <img src="https://img.mvideo.ru/{{el.image}}">
-            <h3>Price: {{el.item_basePrice}}</h3>
-            <h3>Sale Price: {{el.item_salePrice}}</h3>
-            <h3>Bonuses: {{el.item_bonus}}</h3>
+            <img style="float:left" src="https://img.mvideo.ru/{{el.image}}"/>
+            <div class="params">
+                <h3>Price: {{el.item_basePrice}}</h3>
+                <h3>Sale Price: {{el.item_salePrice}}</h3>
+                <h3>Bonuses: {{el.item_bonus}}</h3>
+            </div>
 
         </div>
         {% endfor %}
