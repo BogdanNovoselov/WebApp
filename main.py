@@ -39,6 +39,15 @@ def registration():
 @app.route('/home')
 def home():
     if hasentered:
+        return render_template("homepage.html")
+    else:
+        return redirect('/')
+
+
+
+@app.route('/parser')
+def parser():
+    if hasentered:
         with open('5_result.json') as f:  # открыли файл с данными
             text = json.load(f)  # загнали все, что получилось в переменную
 
